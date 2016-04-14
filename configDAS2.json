@@ -1,0 +1,15 @@
+{
+    "pmtdb": {
+    "username": "root",
+    "password": "mLsxACaH4GECQ",
+    "databasename" : "ElectionCEP",
+   "databaseurl" : "jdbc:mysql://localhost:3306/"
+
+    }       
+}
+
+
+
+
+
+
